@@ -12,7 +12,7 @@
 
 ---
 
-### 列表RAW地址：https://raw.githubusercontent.com/wuu0417/Steam_Game_Domain/refs/heads/main/list.txt
+### 列表RAW地址（Base64加密）：https://raw.githubusercontent.com/wuu0417/Steam_Game_Domain/refs/heads/main/list.txt
 ---
 
 ### *引用来源：*
