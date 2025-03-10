@@ -49,3 +49,5 @@ steamvideo-a.akamaihd.net
 underlords.com
 valvesoftware.com
 wmsjsteam.com
+thatgamecompany.com
+nintendo.com
